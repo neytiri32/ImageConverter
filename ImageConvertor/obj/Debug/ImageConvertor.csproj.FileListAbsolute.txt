@@ -1,0 +1,9 @@
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.csprojAssemblyReference.cache
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.Form1.resources
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.Properties.Resources.resources
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.csproj.GenerateResource.cache
+C:\Users\Matea\source\repos\ImageConvertor\bin\Debug\ImageConvertor.exe.config
+C:\Users\Matea\source\repos\ImageConvertor\bin\Debug\ImageConvertor.exe
+C:\Users\Matea\source\repos\ImageConvertor\bin\Debug\ImageConvertor.pdb
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.exe
+C:\Users\Matea\source\repos\ImageConvertor\obj\Debug\ImageConvertor.pdb
